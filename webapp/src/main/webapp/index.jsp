@@ -44,9 +44,13 @@ button {
     }   
 </style>   
 </head>    
+<<<<<<< HEAD
 <body>  
 
 	<h2> Welcome to our new Login form<h2>
+=======
+<body>    
+>>>>>>> c79c0378f10b4b89be8b5d007f4616eba65e1a4d
     <center> <h1> Student Login Form </h1> </center>   
     <form>  
         <div class="container">   
@@ -62,3 +66,7 @@ button {
     </form>     
 </body>     
 </html>  
+<<<<<<< HEAD
+=======
+
+>>>>>>> c79c0378f10b4b89be8b5d007f4616eba65e1a4d
